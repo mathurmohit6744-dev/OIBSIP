@@ -1,30 +1,29 @@
-# Online Reservation System
+# Number Guessing Game
 
-## Oasis Infobyte Java Internship
+## Oasis Infobyte Java Internship (OIBSIP)
 
 ### Developed By
 Mohit Mathur
 
 ## Description
-This is a Java Console Based Online Reservation System developed for the Oasis Infobyte Java Internship.
+This is a Java console-based Number Guessing Game developed as part of the Oasis Infobyte Java Internship Program.
 
 ## Features
-- Login System
-- Ticket Reservation
-- View Reservation
-- Ticket Cancellation
-- Unique PNR Generation
+- Random number generation
+- User input using Scanner
+- Hints (Higher/Lower)
+- Limited attempts
+- Score calculation (if implemented)
 
 ## Technologies Used
 - Java
-- OOP
-- HashMap
 - Scanner
+- Random Class
 
 ## How to Run
 
 Compile:
-javac OnlineReservationSystem.java
+javac NumberGuessingGame.java
 
 Run:
-java OnlineReservationSystem
+java NumberGuessingGame
