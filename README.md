@@ -1,29 +1,24 @@
-# Number Guessing Game
+# OIBSIP - Java Internship
 
-## Oasis Infobyte Java Internship (OIBSIP)
-
-### Developed By
+## Developed By
 Mohit Mathur
 
-## Description
-This is a Java console-based Number Guessing Game developed as part of the Oasis Infobyte Java Internship Program.
+## Completed Tasks
 
-## Features
-- Random number generation
-- User input using Scanner
-- Hints (Higher/Lower)
-- Limited attempts
-- Score calculation (if implemented)
+### Task 1 - Online Reservation System
+- User Login
+- Ticket Reservation
+- PNR Generation
+- Ticket Cancellation
+
+### Task 2 - Number Guessing Game
+- Random Number Generation
+- Higher/Lower Hints
+- Unlimited Attempts
 
 ## Technologies Used
 - Java
+- Object-Oriented Programming
 - Scanner
-- Random Class
-
-## How to Run
-
-Compile:
-javac NumberGuessingGame.java
-
-Run:
-java NumberGuessingGame
+- Random
+- HashMap
